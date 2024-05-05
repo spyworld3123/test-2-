@@ -16,5 +16,3 @@ def api():
     print("Received content:", content)
     return jsonify({"recommended_asans": recommended_asans})
 
-if __name__ == '__main__':
-    app.run(debug=True)

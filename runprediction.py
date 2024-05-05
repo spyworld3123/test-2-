@@ -74,4 +74,4 @@ def predictionsz(inputstring):
   return matching_keys
 
 
-# print(predictionsz("dengu"))
+print(predictionsz("dengu"))
